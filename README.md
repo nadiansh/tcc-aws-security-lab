@@ -30,3 +30,24 @@
 ## Network Topology
 
 ![image alt](https://github.com/nadiansh/tcc-aws-security-lab/blob/main/NetworkTopology-AWS.jpeg?raw=true)
+
+## 
+[![AWS](https://img.shields.io/badge/AWS-Amazon%20Cloud-FF9900?logo=amazonaws&logoColor=fff)](#)
+[![VPC](https://img.shields.io/badge/VPC-Virtual%20Private%20Cloud-1F6FEB?logo=aws&logoColor=fff)](#)
+[![EC2](https://img.shields.io/badge/EC2-Elastic%20Compute%20Cloud-232F3E?logo=aws&logoColor=fff)](#)
+[![IAM](https://img.shields.io/badge/IAM-Identity%20%26%20Access%20Mgmt-02497A?logo=aws&logoColor=fff)](#)
+[![S3](https://img.shields.io/badge/S3-Simple%20Storage%20Service-569A31?logo=aws&logoColor=fff)](#)
+[![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-0E74B8?logo=aws&logoColor=fff)](#)
+[![CloudTrail](https://img.shields.io/badge/CloudTrail-Audit%20Logs-0052CC?logo=aws&logoColor=fff)](#)
+[![GuardDuty](https://img.shields.io/badge/GuardDuty-Threat%20Detection-0B6A45?logo=aws&logoColor=fff)](#)
+[![Security Hub](https://img.shields.io/badge/Security%20Hub-Central%20Alerts-113F8C?logo=aws&logoColor=fff)](#)
+[![AWS Config](https://img.shields.io/badge/AWS%20Config-Compliance%20Checks-2D6B9A?logo=aws&logoColor=fff)](#)
+[![Systems Manager](https://img.shields.io/badge/Systems%20Manager-SSM-1E6FBF?logo=aws&logoColor=fff)](#)
+[![CloudFormation](https://img.shields.io/badge/CloudFormation-Infrastructure%20as%20Code-2A5F8A?logo=aws&logoColor=fff)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![Nmap](https://img.shields.io/badge/Nmap-Port%20Scanner-0F9D58?logo=nmap&logoColor=fff)](#)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+
+
