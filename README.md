@@ -23,4 +23,10 @@
 - Visualization/Documentation:
 - Lucidchart (topology diagrams) • VS Code (YAML + scripting)
 
+📂 **Lab Documentation:**
+- <a href="https://github.com/nadiansh/tcc-aws-security-lab/blob/main/thecompliancecollective(tcc)_tkh_if_p2_end_project_report_final.pdf">TTC AWS Security Lab Documentation</a>
 
+
+## Network Topology
+
+![image alt](https://github.com/nadiansh/tcc-aws-security-lab/blob/main/NetworkTopology-AWS.jpeg?raw=true)
