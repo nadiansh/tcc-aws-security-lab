@@ -24,8 +24,7 @@
 - Lucidchart (topology diagrams) • VS Code (YAML + scripting)
 
 📂 **Lab Documentation:**
-Full team project report (includes detailed AWS setup, IAM, network topology, Red/Blue Team activities, and MITRE ATT&CK mapping).
-- <a href="https://github.com/nadiansh/tcc-aws-security-lab/blob/main/thecompliancecollective(tcc)_tkh_if_p2_end_project_report_final.pdf">TTC AWS Security Lab Documentation</a>
+- <a href="https://github.com/nadiansh/tcc-aws-security-lab/blob/main/Network%20Topology-ttc.jpeg">TTC AWS Security Lab Documentation</a>
 
 
 ## Network Topology
